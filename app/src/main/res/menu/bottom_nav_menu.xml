@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/recorderTab"
+        android:title="Recorder"
+        android:icon="@drawable/ic_recorder"/>
+    <item
+        android:id="@+id/filesTab"
+        android:title="Files"
+        android:icon="@drawable/ic_files"/>
+</menu>
